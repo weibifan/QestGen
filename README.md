@@ -1,4 +1,36 @@
-# QestGen
+# QuestGen
+
+### 论文列表
+* A Feasibility Study of Answer-Unaware Question Generation for Education ACL22
+* Educational Question Generation of Children Storybooks via Question Type Distribution Learning and Event-centric 
+   Summarization ACL22
+* Question Generation for Reading Comprehension Assessment by Modeling How and What to Ask ACL22
+* What Makes Reading Comprehension Questions Difficult ACL22
+* Predicting Difficulty and Discrimination of Natural Language Questions ACL22
+* On the Robustness of Question Rewriting Systems to Questions of Varying Hardness. ACL22
+* CQG: A Simple and Effective Controlled Generation Framework for Multi-hop Question Generation ACL22
+* It is AI’s Turn to Ask Humans a Question- Question-Answer Pair Generation for Children's Story Books ACL22
+* Unsupervised multiple-choice question generation for out-of-domain Q&A fine-tuning ACL22
+* 
+* Generative Language Models for Paragraph-Level Question Generation  用了几个PLM做了对比测试，有Demo
+* Consecutive Question Generation via Dynamic Multitask Learning
+* CONSISTENT: Open-Ended Question Generation From News Articles
+* 
+* Learning to Generate Question by Asking Question: A Primal-Dual Approach with Uncommon Word Generation
+* Multi-VQG: Generating Engaging Questions for Multiple Images
+* QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance
+* Successive Prompting for Decomposing Complex Questions
+* Semantic Framework based Query Generation for Temporal Question Answering over Knowledge Graphs
+* Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts
+* Varifocal Question Generation for Fact-checking
+* Generating Literal and Implied Subquestions to Fact-check Complex Claims
+* Improving Passage Retrieval with Zero-Shot Question Generation
+* Automatic Generation of Socratic Subquestions for Teaching Math Word Problems
+* DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner
+* Is a Question Decomposition Unit All We Need?
+* POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events
+* CycleKQR: Unsupervised Bidirectional Keyword-Question Rewriting
+
 
 
 ### 代码项目介绍 （默认使用HuggingFace/PyTorch)

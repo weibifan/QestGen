@@ -1,4 +1,6 @@
 # QuestGen
+查看最新和引用最多的论文：https://paperswithcode.com/task/question-generation。  
+
 
 ### 论文列表
 * A Feasibility Study of Answer-Unaware Question Generation for Education ACL22
@@ -32,20 +34,24 @@
 * POQue: Asking Participant-specific Outcome Questions for a Deeper Understanding of Complex Events
 * CycleKQR: Unsupervised Bidirectional Keyword-Question Rewriting
 
-### 数据集
+### 数据集（默认HuggingFace datasets)
 
 [HotpotQA](https://huggingface.co/datasets/hotpot_qa)（多跳），[FairytaleQA](https://huggingface.co/datasets/GEM/FairytaleQA)（教育问题），[RACE](https://huggingface.co/datasets/race)（教育）
 
 ### 代码项目介绍 （默认使用HuggingFace/PyTorch)
-- 论文代码：[eval-summary-qg](https://github.com/weibifan/eval-summary-qg)
+- 论文代码：[eval-summary-qg](https://github.com/weibifan/eval-summary-qg)：
 A Feasibility Study of Answer-Agnostic Question Generation for Education ACL22  
 使用T5
 
-- 论文代码：[eval-lm-question-generation](https://github.com/weibifan/eval-lm-question-generation)
+- 论文代码：[eval-lm-question-generation](https://github.com/weibifan/eval-lm-question-generation)：
 Generative Language Models for Paragraph-Level Question Generation-EMNLP22  
 
-- 论文代码：[eval-qg-ui](https://github.com/weibifan/eval-qg-ui)
+- 论文代码：[eval-qg-ui](https://github.com/weibifan/eval-qg-ui)：
 ParaQG: A System for Generating Questions and Answers from Paragraphs, EMNLP19  
+
+- 论文代码：eval_question_generation_2017：
+Learning to Ask: Neural Question Generation for Reading Comprehension ACL17   
+Seq2seq种子论文
 
 - 中文问题生成：eval_question_generation_ch  
 基于mT5
@@ -53,4 +59,8 @@ ParaQG: A System for Generating Questions and Answers from Paragraphs, EMNLP19
 - 代码工程：eval_question_generation  
 基于mT5
 
+### 大模型
+* 微软：[UniLM系列](https://github.com/microsoft/unilm)，ProphetNet系列
+* OpenAI：GPT系列
+* 谷歌：
 

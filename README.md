@@ -59,8 +59,8 @@ Seq2seq种子论文
 - 代码工程：eval_question_generation  
 基于mT5
 
-- 基于Graph的工程： ICLR20
-https://github.com/graph4ai/graph4nlp/tree/master/examples/pytorch/question_generation
+- 基于Graph的工程： ICLR20  
+https://github.com/graph4ai/graph4nlp/tree/master/examples/pytorch/question_generation  
 使用了Stanford NLPCore  
 
 ### 大模型
